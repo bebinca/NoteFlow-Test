@@ -18,6 +18,7 @@ Noteflow 提供两个核心功能：图表推荐与数据流追踪。
 
 <img src="flow_tracing.png" alt="数据流追踪" width="1500"/>
 
+[▶ 下载demo视频](https://github.com/bebinca/NoteFlow-Test/demo.mp4)
 
 
 <!-- ---
