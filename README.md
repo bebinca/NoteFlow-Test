@@ -46,7 +46,7 @@ Noteflow 提供两个核心功能：图表推荐与数据流追踪。
 安装测试版本：
 
 ```bash
-pip install -i https://test.pypi.org/simple/ noteflow==0.1.0
+pip install -i https://pypi.org/simple/ --extra-index-url https://test.pypi.org/simple noteflow==0.1.0
 ```
 
 安装完成后，启动 JupyterLab：
